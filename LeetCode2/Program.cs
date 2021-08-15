@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LeetCode2
 {
-    class Class1
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

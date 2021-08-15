@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9447BA66-77FF-4BB3-8AF2-25776C8B254A}</ProjectGuid>
+    <ProjectGuid>{65FC7C0D-0237-4ACF-8481-BF9206DDA9AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LeetCode2</RootNamespace>
     <AssemblyName>LeetCode2</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
